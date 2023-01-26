@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: 068af67182d3f5240bba6fc8bcb75148
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4152109244772855097
+    second: atlas cocodrilo 2o psd_0
+  - first:
+      213: -3617803852922312064
+    second: atlas cocodrilo 2o psd_1
+  - first:
+      213: 5344890004410991111
+    second: atlas cocodrilo 2o psd_2
+  - first:
+      213: 6269896985763561427
+    second: atlas cocodrilo 2o psd_4
+  - first:
+      213: -3830359964224218837
+    second: atlas cocodrilo 2o psd_5
+  - first:
+      213: 2967467386566715286
+    second: atlas cocodrilo 2o psd_6
+  - first:
+      213: 6669433884575498450
+    second: atlas cocodrilo 2o psd_8
+  - first:
+      213: -8502270189624140780
+    second: atlas cocodrilo 2o psd_10
+  - first:
+      213: -2951213396711382857
+    second: atlas cocodrilo 2o psd_12
+  - first:
+      213: 5051187988281715668
+    second: atlas cocodrilo 2o psd_13
+  - first:
+      213: 3812970863057602908
+    second: atlas cocodrilo 2o psd_14
+  - first:
+      213: 5954139523546030507
+    second: atlas cocodrilo 2o psd_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: atlas cocodrilo 2o psd_0
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 544
+        width: 403
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2d2b404aeb066c0800000000000000
+      internalID: -4152109244772855097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas cocodrilo 2o psd_1
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 193
+        width: 403
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08aa68f409afacdc0800000000000000
+      internalID: -3617803852922312064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas cocodrilo 2o psd_2
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 771
+        width: 245
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702047cf32ddc2a40800000000000000
+      internalID: 5344890004410991111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas cocodrilo 2o psd_4
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 537
+        width: 129
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfbab6d616230750800000000000000
+      internalID: 6269896985763561427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas cocodrilo 2o psd_5
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 512
+        width: 114
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29998a18e3d7dac0800000000000000
+      internalID: -3830359964224218837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas cocodrilo 2o psd_6
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 509
+        width: 109
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697add2addf8e2920800000000000000
+      internalID: 2967467386566715286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas cocodrilo 2o psd_8
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 263
+        width: 101
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0831728c69e8c50800000000000000
+      internalID: 6669433884575498450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas cocodrilo 2o psd_10
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 263
+        width: 103
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c5f0b3f4ed10a80800000000000000
+      internalID: -8502270189624140780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas cocodrilo 2o psd_12
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 107
+        width: 296
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0e4a84d0f2b07d0800000000000000
+      internalID: -2951213396711382857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas cocodrilo 2o psd_13
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 79
+        width: 86
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db604786bc691640800000000000000
+      internalID: 5051187988281715668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas cocodrilo 2o psd_14
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 79
+        width: 86
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5986774cc46ae430800000000000000
+      internalID: 3812970863057602908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas cocodrilo 2o psd_15
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 190
+        width: 204
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1231ca95a51a250800000000000000
+      internalID: 5954139523546030507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 637560870773891107
+  assetBundleName: 
+  assetBundleVariant: 

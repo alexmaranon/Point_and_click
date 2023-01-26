@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: e418c1279e5ad574ba073cf0d21d4e1f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6801137974298905534
+    second: gato_bien atlas_0
+  - first:
+      213: -1121291195807499270
+    second: gato_bien atlas_1
+  - first:
+      213: -8595330013799937119
+    second: gato_bien atlas_2
+  - first:
+      213: 3029100468407339891
+    second: gato_bien atlas_3
+  - first:
+      213: -9126670237975863116
+    second: gato_bien atlas_4
+  - first:
+      213: 5826741007688687711
+    second: gato_bien atlas_5
+  - first:
+      213: -4709525994985251673
+    second: gato_bien atlas_6
+  - first:
+      213: 6015424820051296672
+    second: gato_bien atlas_7
+  - first:
+      213: -420337907163024359
+    second: gato_bien atlas_8
+  - first:
+      213: -5765440421062751532
+    second: gato_bien atlas_9
+  - first:
+      213: -9070842316891151786
+    second: gato_bien atlas_10
+  - first:
+      213: -8949220998580467868
+    second: gato_bien atlas_11
+  - first:
+      213: 4941565452554909266
+    second: gato_bien atlas_12
+  - first:
+      213: -1871404984447151818
+    second: gato_bien atlas_13
+  - first:
+      213: -8255383945303179055
+    second: gato_bien atlas_14
+  - first:
+      213: -3732107771127714418
+    second: gato_bien atlas_15
+  - first:
+      213: -6648364694207954962
+    second: gato_bien atlas_16
+  - first:
+      213: 681047559670817948
+    second: gato_bien atlas_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gato_bien atlas_0
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 886
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2447e7ddb018d91a0800000000000000
+      internalID: -6801137974298905534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_bien atlas_1
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 889
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbfe18299f5070f0800000000000000
+      internalID: -1121291195807499270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_bien atlas_2
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 790
+        width: 192
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab833874e047b880800000000000000
+      internalID: -8595330013799937119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_bien atlas_3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 812
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b8360c3d6890a20800000000000000
+      internalID: 3029100468407339891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_bien atlas_4
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 806
+        width: 72
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0a15316cd875180800000000000000
+      internalID: -9126670237975863116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_bien atlas_5
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 278
+        width: 351
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f506c79331ebcd050800000000000000
+      internalID: 5826741007688687711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_bien atlas_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 798
+        width: 74
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac9f684f0764aeb0800000000000000
+      internalID: -4709525994985251673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_bien atlas_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 793
+        width: 72
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1c934b0051b7350800000000000000
+      internalID: 6015424820051296672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_bien atlas_8
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 778
+        width: 65
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914bae586e8aa2af0800000000000000
+      internalID: -420337907163024359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_bien atlas_9
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 774
+        width: 62
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da40e0db7a0dffa0800000000000000
+      internalID: -5765440421062751532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_bien atlas_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 759
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6522f10e8f4ed1280800000000000000
+      internalID: -9070842316891151786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_bien atlas_11
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 516
+        width: 100
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4670523baeafdc380800000000000000
+      internalID: -8949220998580467868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_bien atlas_12
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 631
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256b0e9f897f39440800000000000000
+      internalID: 4941565452554909266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_bien atlas_13
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 380
+        width: 182
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631d12fe41f6706e0800000000000000
+      internalID: -1871404984447151818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_bien atlas_14
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 631
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0cdb76a0cfe6d80800000000000000
+      internalID: -8255383945303179055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_bien atlas_15
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 529
+        width: 94
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d257671c3e43cc0800000000000000
+      internalID: -3732107771127714418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_bien atlas_16
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 432
+        width: 98
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef7c7009834cb3a0800000000000000
+      internalID: -6648364694207954962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_bien atlas_17
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 433
+        width: 100
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94635da521937900800000000000000
+      internalID: 681047559670817948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 637555000891810677
+  assetBundleName: 
+  assetBundleVariant: 

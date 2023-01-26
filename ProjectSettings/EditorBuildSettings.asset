@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/PantallaInicio.unity
+    guid: 6f530519d938ade4292afdf5ee4c0804
+  - enabled: 1
+    path: Assets/Scenes/FinalScenes/Lobby.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/FinalScenes/CalleLincoln.unity
+    guid: 8836d05d81b3385428c2f38a71ffaae4
+  - enabled: 1
+    path: Assets/Scenes/FinalScenes/Teatro_Lincoln.unity
+    guid: 32aa6843c16b7d44fafe48f2b6684a04
+  - enabled: 1
+    path: Assets/Scenes/FinalScenes/palco.unity
+    guid: f82bab8e774b10d49aef97ed8e863bc3
+  - enabled: 1
+    path: Assets/Scenes/FinalScenes/callejon.unity
+    guid: 9ba98b51990e3154fba9216d779ac14a
+  - enabled: 1
+    path: Assets/Scenes/FinalScenes/Entrada.unity
+    guid: 459ef0c19ea0bb44f8f813b9d18f589f
+  - enabled: 1
+    path: Assets/Scenes/FinalScenes/juana/Pajar.unity
+    guid: 4431eacb9d77ae144821da7af98a9865
+  - enabled: 1
+    path: Assets/Scenes/FinalScenes/juana/callejuana.unity
+    guid: 6be09dc948ad8be4593ddc7807e5fc88
+  - enabled: 1
+    path: Assets/Scenes/FinalScenes/juana/taberna.unity
+    guid: 2230badff2505e04bb2fa7bb1cb5563a
+  - enabled: 1
+    path: Assets/Scenes/FinalScenes/juana/catedral.unity
+    guid: 2686a7a6bf55a28418f130180e588ea0
+  - enabled: 1
+    path: Assets/Scenes/FinalScenes/limbo.unity
+    guid: 0a988515cc3276a478a960ebe322043b
+  - enabled: 1
+    path: Assets/Scenes/FinalScenes/final.unity
+    guid: 369e1ac0dde89014cb2456811e40cfd0
+  - enabled: 1
+    path: Assets/Scenes/FinalScenes/juana/juanasalva.unity
+    guid: 8044104a2efadbf4b904a2ba4ea78be2
+  m_configObjects: {}

@@ -1,0 +1,428 @@
+fileFormatVersion: 2
+guid: d31186a0c26553249b118ce1f664f70c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6886233107042672145
+    second: AssetsJuana1_Mesa de trabajo 1_0
+  - first:
+      213: -8921600547908807073
+    second: AssetsJuana1_Mesa de trabajo 1_1
+  - first:
+      213: -7466282167241932013
+    second: AssetsJuana1_Mesa de trabajo 1_2
+  - first:
+      213: -5878562751238157332
+    second: AssetsJuana1_Mesa de trabajo 1_3
+  - first:
+      213: 8760294343502594150
+    second: AssetsJuana1_Mesa de trabajo 1_4
+  - first:
+      213: -6961213667128799080
+    second: AssetsJuana1_Mesa de trabajo 1_5
+  - first:
+      213: 2190221130450828387
+    second: AssetsJuana1_Mesa de trabajo 1_6
+  - first:
+      213: -4861332765134515775
+    second: AssetsJuana1_Mesa de trabajo 1_7
+  - first:
+      213: -5717547667678682881
+    second: AssetsJuana1_Mesa de trabajo 1_8
+  - first:
+      213: 577670429574950747
+    second: AssetsJuana1_Mesa de trabajo 1_9
+  - first:
+      213: 2227214466812507679
+    second: AssetsJuana1_Mesa de trabajo 1_10
+  - first:
+      213: -4139965376252696469
+    second: AssetsJuana1_Mesa de trabajo 1_11
+  - first:
+      213: 4824630499994602675
+    second: AssetsJuana1_Mesa de trabajo 1_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AssetsJuana1_Mesa de trabajo 1_0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 3639
+        width: 664
+        height: 769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1ef26597f2f60a0800000000000000
+      internalID: -6886233107042672145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsJuana1_Mesa de trabajo 1_1
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 3666
+        width: 804
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5617f1029b103480800000000000000
+      internalID: -8921600547908807073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsJuana1_Mesa de trabajo 1_2
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 3272
+        width: 2262
+        height: 1082
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31306bc4def626890800000000000000
+      internalID: -7466282167241932013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsJuana1_Mesa de trabajo 1_3
+      rect:
+        serializedVersion: 2
+        x: 5631
+        y: 3221
+        width: 2180
+        height: 1211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb4b9ed2562b6ea0800000000000000
+      internalID: -5878562751238157332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsJuana1_Mesa de trabajo 1_4
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2482
+        width: 726
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66006589a41d29970800000000000000
+      internalID: 8760294343502594150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsJuana1_Mesa de trabajo 1_5
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2636
+        width: 757
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89091354d0dc46f90800000000000000
+      internalID: -6961213667128799080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsJuana1_Mesa de trabajo 1_6
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 29
+        width: 1996
+        height: 2231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c731c838a356e10800000000000000
+      internalID: 2190221130450828387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsJuana1_Mesa de trabajo 1_7
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 84
+        width: 769
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c190374b93198cb0800000000000000
+      internalID: -4861332765134515775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsJuana1_Mesa de trabajo 1_8
+      rect:
+        serializedVersion: 2
+        x: 3607
+        y: 170
+        width: 1536
+        height: 2179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff026a960b037a0b0800000000000000
+      internalID: -5717547667678682881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsJuana1_Mesa de trabajo 1_9
+      rect:
+        serializedVersion: 2
+        x: 5838
+        y: 115
+        width: 308
+        height: 1711
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fef00f13c440800800000000000000
+      internalID: 577670429574950747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsJuana1_Mesa de trabajo 1_10
+      rect:
+        serializedVersion: 2
+        x: 6502
+        y: 201
+        width: 441
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1678fcd1c7a8ee10800000000000000
+      internalID: 2227214466812507679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsJuana1_Mesa de trabajo 1_11
+      rect:
+        serializedVersion: 2
+        x: 7287
+        y: 170
+        width: 277
+        height: 1164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68aa0ebc63eb86c0800000000000000
+      internalID: -4139965376252696469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsJuana1_Mesa de trabajo 1_12
+      rect:
+        serializedVersion: 2
+        x: 7814
+        y: 111
+        width: 113
+        height: 1957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc81b4b0e784f240800000000000000
+      internalID: 4824630499994602675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: 5b27be1c3fdd11744a461d594364393c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3852997417191994567
+    second: juana atlas_0
+  - first:
+      213: 8444683822725351860
+    second: juana atlas_1
+  - first:
+      213: 6760673525234122527
+    second: juana atlas_2
+  - first:
+      213: 3929324923364635760
+    second: juana atlas_3
+  - first:
+      213: 3877606113920221925
+    second: juana atlas_4
+  - first:
+      213: 7702871479312513035
+    second: juana atlas_5
+  - first:
+      213: 3857883284238152271
+    second: juana atlas_6
+  - first:
+      213: -6115659220594738766
+    second: juana atlas_7
+  - first:
+      213: 1403223178883529337
+    second: juana atlas_8
+  - first:
+      213: 8195713316364584130
+    second: juana atlas_9
+  - first:
+      213: -3159643066596694545
+    second: juana atlas_10
+  - first:
+      213: -5969054292762594747
+    second: juana atlas_11
+  - first:
+      213: -1817730350394533298
+    second: juana atlas_12
+  - first:
+      213: -1035758279211805225
+    second: juana atlas_13
+  - first:
+      213: -6927634888487392358
+    second: juana atlas_14
+  - first:
+      213: 3504403371883492999
+    second: juana atlas_15
+  - first:
+      213: -4595013424035050257
+    second: juana atlas_16
+  - first:
+      213: -3852212904994592241
+    second: juana atlas_17
+  - first:
+      213: -8332415160787397379
+    second: juana atlas_18
+  - first:
+      213: 2450349286926418838
+    second: juana atlas_19
+  - first:
+      213: -1192738776098025065
+    second: juana atlas_20
+  - first:
+      213: 5775908984531048782
+    second: juana atlas_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: juana atlas_0
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 910
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4f934acb8987530800000000000000
+      internalID: 3852997417191994567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juana atlas_1
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 687
+        width: 105
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b94806e13b813570800000000000000
+      internalID: 8444683822725351860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juana atlas_2
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 691
+        width: 105
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fb7f960ccb2dd50800000000000000
+      internalID: 6760673525234122527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juana atlas_3
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 817
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074fc380334c78630800000000000000
+      internalID: 3929324923364635760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juana atlas_4
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 854
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e20917573600d530800000000000000
+      internalID: 3877606113920221925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juana atlas_5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 686
+        width: 139
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08f8e28cc816ea60800000000000000
+      internalID: 7702871479312513035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juana atlas_6
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 686
+        width: 139
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42bee53864f98530800000000000000
+      internalID: 3857883284238152271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juana atlas_7
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 748
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9bb1d4750d02ba0800000000000000
+      internalID: -6115659220594738766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juana atlas_8
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 701
+        width: 241
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a72fdeb00497310800000000000000
+      internalID: 1403223178883529337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juana atlas_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 281
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c489d6a6d50db170800000000000000
+      internalID: 8195713316364584130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juana atlas_10
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 228
+        width: 392
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe56a761f51b624d0800000000000000
+      internalID: -3159643066596694545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juana atlas_11
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 535
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5427dd20fb8a92da0800000000000000
+      internalID: -5969054292762594747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juana atlas_12
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 422
+        width: 281
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a994780ef16c6e0800000000000000
+      internalID: -1817730350394533298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juana atlas_13
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 479
+        width: 43
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5196e255f30a1f0800000000000000
+      internalID: -1035758279211805225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juana atlas_14
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 381
+        width: 389
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b2b1ae5c81cdf90800000000000000
+      internalID: -6927634888487392358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juana atlas_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 459
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786fbc2bc4422a030800000000000000
+      internalID: 3504403371883492999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juana atlas_16
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 495
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec4d32e2ab3b30c0800000000000000
+      internalID: -4595013424035050257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juana atlas_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 174
+        width: 65
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a2f96d5c03a8ac0800000000000000
+      internalID: -3852212904994592241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juana atlas_18
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 173
+        width: 65
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4103cee805d5c80800000000000000
+      internalID: -8332415160787397379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juana atlas_19
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 43
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69381e6a1b3610220800000000000000
+      internalID: 2450349286926418838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juana atlas_20
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 0
+        width: 43
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791d7dc076a827fe0800000000000000
+      internalID: -1192738776098025065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juana atlas_21
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 89
+        width: 65
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49d5fd8e96282050800000000000000
+      internalID: 5775908984531048782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 637561519715313073
+  assetBundleName: 
+  assetBundleVariant: 
